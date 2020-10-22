@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/edit_new_item"
+    android:hint="@string/hint"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".fragments.NewItemFragment"
+    android:singleLine="true"
+    >
+</EditText>
